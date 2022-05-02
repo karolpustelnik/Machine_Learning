@@ -27,8 +27,10 @@ In this task, I implemented LSTM Sentiment Tagger for the imdb reviews dataset.
 
 
 #### Project 4 [Solutions to Stanford NLP course CS24N]
-
-
+Assignment 1
+Assignment 2
+Assignment 3
+Assignment 4
 #### Project 5 [Active Learning]
 
 In this project, I implement diffrent strategies for batch selection that leads to the best increase in model performance.
