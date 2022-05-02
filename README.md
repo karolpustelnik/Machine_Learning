@@ -74,8 +74,15 @@ I used a real car that I was able to control through wifi.
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/Robot%20Control/robot_in_reality)
 
+Below you can find videos of robot performing various tasks:
 
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBglKEgaOJo)
 
+https://youtu.be/w80S7h89ZLc
+
+https://youtu.be/ol3Zm4MJ76w
+
+https://youtu.be/yO9NkLV9JnY
 
 
 
