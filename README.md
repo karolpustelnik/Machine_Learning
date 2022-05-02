@@ -17,7 +17,7 @@ I will use MLP architecture trained on the MNIST dataset.
 
 In this task, I solved an object detection training and prediction task using the anchor-based approach. I implemented architecture from RetinaNet.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_0/colab_notebooks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning_Projects/blob/main/Karol_Pustelnik_Assignment_2_RetinaMNIST_with_rotations-2.ipynb
 
 #### Project 3 [NLP - LSTM sentiment tagger]
 
