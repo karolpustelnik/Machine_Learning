@@ -23,7 +23,7 @@ In this task, I solved an object detection training and prediction task using th
 
 In this task, I implemented LSTM Sentiment Tagger for the imdb reviews dataset.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_0/colab_notebooks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning_Projects/blob/main/Karol_Pustelnik_Homework_RNN_student_version_4.ipynb)
 
 
 #### Project 4 [Solutions to Stanford NLP course CS24N]
