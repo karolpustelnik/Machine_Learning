@@ -9,7 +9,7 @@ Here you can find the projects that I have done so far. All of them are in Pytor
 In this task, I verified the impact of the data noise level in neural network training.
 I will use MLP architecture trained on the MNIST dataset.
 
-[![Open In Colab](https://github.com/karolpustelnik/Machine_Learning_Projects/blob/main/Karol_Pustelnik_Homework_1_DNN-2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/karolpustelnik/Machine_Learning_Projects/blob/main/Karol_Pustelnik_Homework_1_DNN-2.ipynb)
 
 
 
