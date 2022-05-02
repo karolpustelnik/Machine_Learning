@@ -27,7 +27,7 @@ In this task, I implemented LSTM Sentiment Tagger for the imdb reviews dataset.
 
 
 #### Project 4 [Solutions to Stanford NLP course CS24N]
-Assignment 1 [![github](https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_1)
+Assignment 1 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_1)
 Assignment 2
 Assignment 3
 Assignment 4
