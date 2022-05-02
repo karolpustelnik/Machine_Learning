@@ -76,15 +76,21 @@ I used a real car that I was able to control through wifi.
 
 Below you can find videos of robot performing various tasks:
 
+Moving green basket to specific aruco marker:
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBglKEgaOJo)
 
+Moving red basket to specific aruco marker:
+
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/w80S7h89ZLc)
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ol3Zm4MJ76w)
+Driving to aruco markers along their axis:
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/yO9NkLV9JnY)
 
+Driving to aruco markers along their axis in specific order:
+
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ol3Zm4MJ76w)
 
 
 
