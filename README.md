@@ -31,11 +31,11 @@ Assignment 1
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_1)
 
 Assignment 2
-
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_2)
 Assignment 3
-
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_3)
 Assignment 4
-
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_4)
 #### Project 5 [Active Learning]
 
 In this project, I implement diffrent strategies for batch selection that leads to the best increase in model performance.
