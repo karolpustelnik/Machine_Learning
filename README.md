@@ -27,19 +27,23 @@ In this task, I implemented LSTM Sentiment Tagger for the imdb reviews dataset.
 
 
 #### Project 4 [Solutions to Stanford NLP course CS24N]
-Assignment 1 
+
+Assignment 1 [Word Vectors]
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_1)
 
-Assignment 2
+Assignment 2 [word2vec Algorithm]
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_2)
-Assignment 3
+
+Assignment 3 [Neural Machine Translation]
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_3)
-Assignment 4
+
+Assignment 4 [Self-Attention, Transformers, Pretraining]
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/NLP/Practical_4)
+
 #### Project 5 [Active Learning]
 
 In this project, I implement diffrent strategies for batch selection that leads to the best increase in model performance.
