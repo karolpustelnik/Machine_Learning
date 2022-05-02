@@ -1,7 +1,7 @@
 # Machine Learninig Projects
 
 
-Here you can find the projects that I have done so far. All of them are in Pytorch. 
+Here you can find the projects that I have done so far. Most of them are in Pytorch.
 
 
 #### Project 1 [Data Noise]
