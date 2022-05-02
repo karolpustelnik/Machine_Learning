@@ -53,7 +53,7 @@ In this project, I implement diffrent strategies for batch selection that leads 
 
 In this simple simulation, I add four cubes in random places within the reach of the robot. I wrote an algorithm to get all the cubes close to the (x=0, y=0, z=-0.1) point.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_1/week_1.ipynb)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/Robot%20Control/simulation_pybullet)
 
 
 #### Project 5 [Simulation in Pybullet - working with colours]
@@ -61,6 +61,8 @@ In this project I:
 - wrote a program that estimates how long (number of simulation steps) the car should drive forward to be near the target (red ball).
 - wrote a program that finds the ball and drive close to it without moving it. The ball is placed randomly in [-3, -3] x [3,3] square, but not too close to [0, 0, 0] (more then 1 m away).
 - wrote a program that moves Ball through gate. Ball is located randomly in [1, -1] x [2, 1] rectangle. Car starts in the [0, 0] point. Gate consists of two large blue cylinders in [-2, -1], and [-2, 1] points.
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/Robot%20Control/working_with_colours)
 
 #### Project 5 [Programming Robot in Reality]
 
@@ -70,7 +72,7 @@ In this project I programmed a car to do specific tasks such as:
 
 I used a real car that I was able to control through wifi.
 
-
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karolpustelnik/Machine_Learning_Projects/tree/main/Robot%20Control/robot_in_reality)
 
 
 
