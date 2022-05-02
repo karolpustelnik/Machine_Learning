@@ -78,15 +78,15 @@ Below you can find videos of robot performing various tasks:
 
 Moving green basket to specific aruco marker:
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pBglKEgaOJo)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2H-OtnuCIMw)
 
 Moving red basket to specific aruco marker:
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/w80S7h89ZLc)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/r0SvsmTElKw)
 
 Driving to aruco markers along their axis:
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/yO9NkLV9JnY)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/0XYtlJRBRK8)
 
 Driving to aruco markers along their axis in specific order:
 
