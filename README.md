@@ -1,6 +1,6 @@
 # Machine Learninig Projects
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karol-pustelnik-10667b1a6)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-pustelnik)
 
 Here you can find the projects that I have done so far. Most of them are in PyTorch.
 
