@@ -25,8 +25,13 @@ In this task, I implemented LSTM Sentiment Tagger for the imdb reviews dataset.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning_Projects/blob/main/Karol_Pustelnik_Homework_RNN_student_version_4.ipynb)
 
+#### Project 4 [Computer Vision - Single Shot MultiBox Detector on PennFudan dataset]
 
-#### Project 4 [Solutions to NLP course MIMUW]
+In this task, I implemented architecture from SSD paper to detect people on images (PennFudan dataset)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/karolpustelnik/Machine_Learning_Projects/blob/main/KP_SSD_on_PennFudan_Problem1_(1)-2.ipynb)
+
+#### Project 5 [Solutions to NLP course MIMUW]
 
 Assignment 1 [Word Vectors]
 
