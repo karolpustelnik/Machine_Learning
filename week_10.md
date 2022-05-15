@@ -211,6 +211,9 @@ print(my_dict)
     {'model': 'RS3', 'year': 2019, 'brand': 'Audi'}
 
 ### Zadanie 1 [0.5pkt]
+
+Stwórz funkcję `mapping`, która ma przyjmowac jeden argument (`listę liczb`) i stworzyc słownik, które `keys` to kolejne elementy z `listy liczb`, a values to odpowiadające im wartości funkcji W(x) = $f(x) = 2x^3 + 4x -7$ 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_1.ipynb)
 
 ## Usuwanie elementów ze słownika
@@ -402,6 +405,9 @@ for element in my_dict.items():
     ('year', 1964)
 
 ### Zadanie 2 [0.5pkt]
+
+Napisz funkcję `find_keys`, która znajdzie wszystkie klucze w podanym słowniku, które mają wartośc 22. Funkcja ma przyjmowac jeden argument (słownik) i zwracac listę kluczy.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_2.ipynb)
 
 ## Metoda fromkeys()
@@ -532,6 +538,15 @@ top_3(countries)
     ['Spain', 'Poland', 'Nepal']
     
 ### Zadanie 3 [0.5pkt]
+
+Stwórz funkcję `similiar_numbers`, która przyjmuje jeden argument (listę liczb naturalnych) i zwraca słownik, którego klucze to mozliwe reszty z dzielenia przez 4, a wartości to lista liczb, ktorych reszta z dzielenia przez 4 jest równa kluczowi.
+
+Na przykład dla listy [1,2,3,4,5,6,7]
+
+Funkcja `similiar_numbers` powinna zwrócic slownik:
+
+{1:[1,5], 2:[2, 6], 3:[3,7]}
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_3.ipynb)
 
 # **Podsumowanie**
