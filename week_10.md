@@ -1,6 +1,7 @@
 # **Słowniki w Pythonie**
 
-# Table of Contents
+* TOC
+{:toc}
 
 Poprzedni notebook (week 9) dotyczył `list` w Pythonie. W tym notebooku powiemy sobie coś o `słownikach`, czyli kolejnej strukturze danych.
 Przypomnijmy najpierw czym były `listy`. 
@@ -15,7 +16,7 @@ Elementy listy są `indeksowane`, pierwsza pozycja ma indeks `[0]`, druga pozycj
 Listę inicjalizujemy `kwadratowymi nawiasami`.
 
 
-## Przykład
+### Przykład
 
 
 ```python
@@ -49,7 +50,7 @@ Słownik to zbiór `uporządkowany`, `zmienny` i `nie pozwalający na duplikaty`
 Słownik inicjalizujemy `klamrowymi nawiasami`.
 
 
-# **Tworzenie słownika w Pythonie**
+## **Tworzenie słownika w Pythonie**
 
 Tworzenie słownika jest tak proste, jak umieszczanie elementów w nawiasach klamrowych `{ }` oddzielonych przecinkami.
 
@@ -57,7 +58,7 @@ Każdy element słownika to para (key: value). `Key` oznacza klucz w słowniku, 
 
 Chociaż `wartości` mogą być dowolnego typu i mogą się powtarzać, `klucze` muszą być typu `niezmiennego` i muszą być `unikatowe`.
 
-## Przykład
+### Przykład
 
 
 ```python
@@ -75,7 +76,7 @@ Zauważ, że po danym kluczu zawsze dajemy dwukropek, a dopiero potem wartość.
 
 `Słownik` w Pythonie może zostać stworzony przy użyciu wbudowanej funkcji `dict()`. Funkcja ta jako argumenty przyjmuje pary `key`,`value`.
 
-## Przykład
+### Przykład
 
 
 ```python
@@ -168,7 +169,7 @@ my_dict[0]  #indeksowanie jak listach nie zadziała --> KeyError
     KeyError: 0
 
 
-# Zmienianie i dodawanie elementów słownika
+## Zmienianie i dodawanie elementów słownika
 
 Słowniki są `zmienne` (edytowalne). Możemy dodawać nowe pozycje lub zmieniać wartość istniejących pozycji za pomocą operatora przypisania, czyli `=`.
 
@@ -210,7 +211,7 @@ print(my_dict)
     {'model': 'RS3', 'year': 2019, 'brand': 'Audi'}
 
 
-# Usuwanie elementów ze słownika
+## Usuwanie elementów ze słownika
 
 Możemy usunąć konkretną pozycję ze słownika za pomocą metody `pop()`. Ta metoda usuwa element z podanym kluczem. Na koniec wyświetla wartość usuniętej pary.
 
@@ -302,7 +303,7 @@ Poniżej zestawione są metody dostępne ze słownikiem. Niektóre z nich zosta�
 
 Powyższe metody zwracają widok na odpowiednio: klucze, wartości i elementy słownika (pary `key:values`). Zwrócone przez nich obiekty `nie są listami` więc nie można ich indeksować.
 
-# Przykład
+### Przykład
 
 
 ```python
@@ -354,11 +355,11 @@ dict_keys[0] # metody keys, values, items nie pozwalają na indeksowanie --> Typ
     TypeError: 'dict_keys' object is not subscriptable
 
 
-# **Iteracja przez słownik**
+## **Iteracja przez słownik**
 
 Możemy iterować się przez każdy klucz w słowniku za pomocą pętli `for`. 
 
-## Przykład
+### Przykład
 
 
 ```python
@@ -386,7 +387,7 @@ for value in my_dict.values():
 
 Podobnie możemy itereować się po `elementach` słownika (parach `key:value`)
 
-## Przykład
+### Przykład
 
 
 ```python
@@ -399,11 +400,11 @@ for element in my_dict.items():
     ('year', 1964)
 
 
-# Metoda fromkeys()
+## Metoda fromkeys()
 
 Metoda `fromkeys()` jest bardzo przydatną podczas tworzeniu słowników. Pozwala ona stworzyć słownik ze zdefniowanej wcześniej listy i wartości, która ma zostać przypisana każdemu kluczowi.
 
-## Przykład
+### Przykład
 
 
 ```python
@@ -430,7 +431,7 @@ print(marks)
 
 Wcześniej poznalismy już parę podstawowych funkcji w Pythonie m.in. `len()` i `sorted()`. Funkcja `len()` zwraca długość struktury danych, a `sorted()` sortuje rosnąco. W przypadku słowników, funkcja `sorted()` zwraca listę posortowanych `wartości` (domyślnie rosnąco).
 
-## Przykład
+### Przykład
 
 
 
