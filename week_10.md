@@ -212,9 +212,9 @@ print(my_dict)
 
 ### Zadanie 1 [0.5pkt]
 
-Stwórz funkcję `mapping`, która ma przyjmować jeden argument (`listę liczb`) i stworzyć słownik, gdzie `keys` to kolejne elementy z `listy liczb`, a `values` to odpowiadające im wartości wielomianu $$W(x) = f(x) = 2x^3 + 4x -7$$
+Stwórz funkcję `mapping`, która ma przyjmować jeden argument (`listę liczb`) i stworzyć słownik, gdzie `keys` to kolejne elementy z `listy liczb`, a `values` to odpowiadające im wartości wielomianu W(x).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_1.ipynb){:target="_blank" rel="noopener"}
 
 ## Usuwanie elementów ze słownika
 
@@ -408,7 +408,7 @@ for element in my_dict.items():
 
 Napisz funkcję `find_keys`, która znajdzie wszystkie `klucze` w podanym słowniku, które mają `wartość` 22. Funkcja ma przyjmowac jeden argument (słownik) i zwracac listę kluczy.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_2.ipynb){:target="_blank" rel="noopener"}
 
 ## Metoda fromkeys()
 
@@ -547,7 +547,7 @@ Funkcja `similiar_numbers` powinna zwrócic slownik:
 
 {1:[1,5], 2:[2, 6], 3:[3,7]}
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_3.ipynb){:target="_blank" rel="noopener"}
 
 # **Podsumowanie**
 
