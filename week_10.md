@@ -212,7 +212,7 @@ print(my_dict)
 
 ### Zadanie 1 [0.5pkt]
 
-Stwórz funkcję `mapping`, która ma przyjmowac jeden argument (`listę liczb`) i stworzyc słownik, które `keys` to kolejne elementy z `listy liczb`, a values to odpowiadające im wartości funkcji W(x) = $f(x) = 2x^3 + 4x -7$ 
+Stwórz funkcję `mapping`, która ma przyjmować jeden argument (`listę liczb`) i stworzyć słownik, gdzie `keys` to kolejne elementy z `listy liczb`, a `values` to odpowiadające im wartości wielomianu $$W(x) = f(x) = 2x^3 + 4x -7$$
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_1.ipynb)
 
@@ -406,7 +406,7 @@ for element in my_dict.items():
 
 ### Zadanie 2 [0.5pkt]
 
-Napisz funkcję `find_keys`, która znajdzie wszystkie klucze w podanym słowniku, które mają wartośc 22. Funkcja ma przyjmowac jeden argument (słownik) i zwracac listę kluczy.
+Napisz funkcję `find_keys`, która znajdzie wszystkie `klucze` w podanym słowniku, które mają `wartość` 22. Funkcja ma przyjmowac jeden argument (słownik) i zwracac listę kluczy.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_2.ipynb)
 
@@ -539,7 +539,7 @@ top_3(countries)
     
 ### Zadanie 3 [0.5pkt]
 
-Stwórz funkcję `similiar_numbers`, która przyjmuje jeden argument (listę liczb naturalnych) i zwraca słownik, którego klucze to mozliwe reszty z dzielenia przez 4, a wartości to lista liczb, ktorych reszta z dzielenia przez 4 jest równa kluczowi.
+Stwórz funkcję `similiar_numbers`, która przyjmuje jeden argument (listę liczb naturalnych) i zwraca słownik, którego klucze to możliwe reszty z dzielenia przez 4, a wartości to lista liczb, ktorych reszta z dzielenia przez 4 jest równa kluczowi.
 
 Na przykład dla listy [1,2,3,4,5,6,7]
 
