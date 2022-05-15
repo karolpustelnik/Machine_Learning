@@ -1,4 +1,4 @@
-# **Słowniki w Pytohnie**
+# **Słowniki w Pythonie**
 Poprzedni notebook (week 9) dotyczył `list` w Pythonie. W tym notebooku powiemy sobie coś o `słownikach`, czyli kolejnej strukturze danych.
 Przypomnijmy najpierw czym były `listy`. 
 
