@@ -210,6 +210,8 @@ print(my_dict)
 
     {'model': 'RS3', 'year': 2019, 'brand': 'Audi'}
 
+### Zadanie 1 [0.5pkt]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_1.ipynb)
 
 ## Usuwanie elementów ze słownika
 
@@ -399,6 +401,8 @@ for element in my_dict.items():
     ('model', 'Mustang')
     ('year', 1964)
 
+### Zadanie 2 [0.5pkt]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_2.ipynb)
 
 ## Metoda fromkeys()
 
@@ -526,8 +530,8 @@ top_3(countries)
 
 
     ['Spain', 'Poland', 'Nepal']
-
-
+### Zadanie 3 [0.5pkt]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/karolpustelnik/Machine_Learning/blob/main/week_10/zadanie_3.ipynb)
 
 # **Podsumowanie**
 
