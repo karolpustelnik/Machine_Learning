@@ -50,7 +50,7 @@ Słownik to zbiór `uporządkowany`, `zmienny` i `nie pozwalający na duplikaty`
 Słownik inicjalizujemy `klamrowymi nawiasami`.
 
 
-## **Tworzenie słownika w Pythonie**
+## Tworzenie słownika w Pythonie
 
 Tworzenie słownika jest tak proste, jak umieszczanie elementów w nawiasach klamrowych `{ }` oddzielonych przecinkami.
 
@@ -72,7 +72,7 @@ my_dict = {    # tworzenie słownika przy użyciu nawiasów klamrowych
 W powyższym słowniku `my_dict` kluczami są: `brand`, `model` i `year`, a odpowiadającymi im wartościami są: `Ford`, `Mustang` i `1964`.
 Zauważ, że po danym kluczu zawsze dajemy dwukropek, a dopiero potem wartość.
 
-# Tworzenie słownika przy użyciu dict()
+# **Tworzenie słownika przy użyciu dict()**
 
 `Słownik` w Pythonie może zostać stworzony przy użyciu wbudowanej funkcji `dict()`. Funkcja ta jako argumenty przyjmuje pary `key`,`value`.
 
@@ -95,7 +95,7 @@ Zauważ, że ten sposób inicjalizaji słownika ma pewne różnice:
 
 
 
-# Dostęp do elementów ze słownika
+# **Dostęp do elementów ze słownika**
 Podczas gdy indeksowanie jest używane z innymi typami danych  (np. `listami`) w celu uzyskania dostępu do `wartości`, słownik używa `kluczy` (tzn. indeksowanie jak w listach, nie zadziała). `Klucze` mogą być używane w nawiasach kwadratowych `[ ]` lub z metodą `get()`.
 Jeśli np. chcielibyśmy w słowniku `my_dict` znaleźć `wartość` dla `klucza` `brand` możemy to zrobić tak:
 
@@ -357,7 +357,7 @@ dict_keys[0] # metody keys, values, items nie pozwalają na indeksowanie --> Typ
     TypeError: 'dict_keys' object is not subscriptable
 
 
-## **Iteracja przez słownik**
+## Iteracja przez słownik
 
 Możemy iterować się przez każdy klucz w słowniku za pomocą pętli `for`. 
 
@@ -431,7 +431,7 @@ print(marks)
     {'John': 1, 'Mark': 1, 'Matthew 1': 1, 'Matthew 2': 1, 'Peter 1': 1, 'Peter 2': 1, 'Charles': 6}
 
 
-# Wbudowane funkcje słownika
+# **Wbudowane funkcje słownika**
 
 Wcześniej poznalismy już parę podstawowych funkcji w Pythonie m.in. `len()` i `sorted()`. Funkcja `len()` zwraca długość struktury danych, a `sorted()` sortuje rosnąco. W przypadku słowników, funkcja `sorted()` zwraca listę posortowanych `wartości` (domyślnie rosnąco).
 
@@ -473,7 +473,7 @@ sorted(ages) # zwraca listę wartości (imion) od najmłodszych do najstarszych
 
 
 
-# **Zadanie Przykładowe 1**
+# Zadanie Przykładowe 1
 
 Stwórz funkcję `names_length`, która przyjmuję jeden argument, `listę` imion, i `zwraca` słownik, gdzie każdy element tego słownika to para `imię: długość imienia`. Tzn. rolę `key` pełni imię, a rolę `value` pełni liczba liter w imieniu.
 
@@ -500,7 +500,7 @@ names = ['John', 'Mark', 'Matthew', 'Peter', 'Charles']
 names_length(names)
 ```
 
-# **Zadanie Przykładowe 2**
+# Zadanie Przykładowe 2
 
 Stwórz funkcję `top_3`, która przyjmuje jeden argument (słownik zawierający pary kraj: liczba ludności w mln) i zwraca nazwy trzech najbogatszych krajów.
 
